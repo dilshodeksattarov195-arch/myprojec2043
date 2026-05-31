@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperconnect",
+        "uuid": 12027141,
+        "checksum": "5mapvf"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
